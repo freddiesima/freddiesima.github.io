@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a59bee1-4172-4a9e-a4c6-6d5e0b2f18fd" name="Default Changelist" comment="First Commit">
+    <list default="true" id="3a59bee1-4172-4a9e-a4c6-6d5e0b2f18fd" name="Default Changelist" comment="Deploy test">
+      <change afterPath="$PROJECT_DIR$/src/styles/theme.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -11,7 +13,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mVdQod5VGyTYIx85glthcCOT1c" />
@@ -40,7 +54,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609582678307</updated>
-      <workItem from="1609582679347" duration="1579000" />
+      <workItem from="1609582679347" duration="1754000" />
+      <workItem from="1609584597322" duration="1773000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1609583125546</created>
@@ -49,14 +64,49 @@
       <option name="project" value="LOCAL" />
       <updated>1609583125546</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Deploy test">
+      <created>1609584349288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609584349288</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Delete README.md">
+      <created>1609584872193</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609584872193</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Edit .gitignore for Jetbrains IDE">
+      <created>1609585071398</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609585071398</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Deploy test" />
+    <MESSAGE value="Delete README.md" />
+    <MESSAGE value="Edit .gitignore for Jetbrains IDE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit .gitignore for Jetbrains IDE" />
   </component>
 </project>
