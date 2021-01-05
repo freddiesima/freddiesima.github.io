@@ -2,12 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a59bee1-4172-4a9e-a4c6-6d5e0b2f18fd" name="Default Changelist" comment="Deploy test">
+      <change afterPath="$PROJECT_DIR$/src/components/MainFeature.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Skills.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialLink.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Works.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/MainPicture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/profile.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chunk-map.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chunk-map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page-data/app-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page-data/app-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page-data/index/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page-data/index/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/webpack.stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/webpack.stats.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/theme.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/theme.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Theme.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/types/graphql-types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/types/graphql-types.d.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +57,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,7 +71,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\Freddiesima\freddie-portfolio\static\images" />
+      <recent name="E:\Projects\Freddiesima\freddie-portfolio\src\assets\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\Freddiesima\freddie-portfolio\src\pictures" />
+      <recent name="E:\Projects\Freddiesima\freddie-portfolio\static" />
+      <recent name="E:\Projects\Freddiesima\freddie-portfolio\src\images" />
+      <recent name="E:\Projects\Freddiesima\freddie-portfolio\src" />
       <recent name="E:\Projects\Freddiesima\freddie-portfolio" />
     </key>
   </component>
@@ -68,7 +93,11 @@
       <updated>1609582678307</updated>
       <workItem from="1609582679347" duration="1754000" />
       <workItem from="1609584597322" duration="3349000" />
-      <workItem from="1609587972302" duration="311000" />
+      <workItem from="1609587972302" duration="9208000" />
+      <workItem from="1609632379100" duration="13504000" />
+      <workItem from="1609691208059" duration="3322000" />
+      <workItem from="1609762964172" duration="11327000" />
+      <workItem from="1609801174567" duration="7339000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1609583125546</created>
@@ -105,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609586505506</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Setup typescript environment">
+      <created>1609588404381</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609588404381</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +165,7 @@
     <MESSAGE value="Delete README.md" />
     <MESSAGE value="Edit .gitignore for Jetbrains IDE" />
     <MESSAGE value="Initialize Material-UI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initialize Material-UI" />
+    <MESSAGE value="Setup typescript environment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup typescript environment" />
   </component>
 </project>
